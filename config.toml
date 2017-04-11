@@ -1,0 +1,10 @@
+#Hugo configuration
+title = "df ewrew r"
+baseURL = "https:\/\/23rewf.cgv.ghfb"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+
+[params]
+loginId = "1758823"
+subfolder = ""
